@@ -35,6 +35,11 @@ class Program{
         System.out.println("Employee Details:");
         employee.displayDetails();
 
+        devopsEngineer d1=new devopsEngineer("jane Smith", 456, 60000, 10000);
+        System.out.println("Devops Details:");
+
+        d1.displayDetails();
+
        
 
         
